@@ -1,8 +1,5 @@
 package com.day8.programs;
 import java.util.Objects;
-
-
-
 public class Line implements CompareToInterface {
 Points p1, p2;
 	@Override
