@@ -35,5 +35,4 @@ public class Main {
 			System.out.println("Line1 is less than Line2");
 	
 	}
-
 }
